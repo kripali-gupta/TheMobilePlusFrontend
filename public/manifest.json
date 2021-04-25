@@ -1,0 +1,26 @@
+{
+  "name": "The Mobile Plus",
+  "short_name": "PS Softech",
+  "icons": [
+    {
+      "src": "The Mobile Plus",
+      "sizes": "92x92",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "144x144",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "152x152",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
